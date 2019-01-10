@@ -4,6 +4,7 @@ Stock analysis with AI api
 ## Basics
 * [Python]()
   >(CW) reading free open source apis for machine learing. : one possible solution [TensorFlow](https://www.tensorflow.org/)  
+  * [9 Things about Tensorflow](https://hackernoon.com/9-things-you-should-know-about-tensorflow-9cf0a05e4995)
 * [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning#readme)  
   >(JW) Machine Learning guide (w/ resources) for people with some Python knowledge.  
 
